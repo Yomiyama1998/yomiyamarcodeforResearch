@@ -11,7 +11,7 @@ library(ggplot2)
 x<-read.csv(inf_1,header=T)
 y<-read.csv(inf_2,heade=T)
 x<-na.omit(x)
-comp<-25/((200/220)*0.2)*20
+comp<-25/((200/220)*0.2)
 VirusDNAcomp<-x$VirusDNA*comp
 x<-cbind(x,VirusDNAcomp)
 
