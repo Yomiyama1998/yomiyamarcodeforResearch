@@ -1,4 +1,4 @@
-inf<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/"
+inf<-"保存しているdir"
 x<-c("0")
 len<-length(x)
 
