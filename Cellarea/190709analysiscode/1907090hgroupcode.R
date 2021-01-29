@@ -1,4 +1,4 @@
-inf<-"inputdir"
+inf<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/"
 x<-c("0")
 len<-length(x)
 

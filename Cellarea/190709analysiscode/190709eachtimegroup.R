@@ -1,5 +1,5 @@
-inf<-"input-dir"
-x<-c("6","12","24","48","60","72","84","96")
+inf<-"/Users/yomiyama/Desktop/190709analysis/190702cellarea/"
+x<-c("0","6","12","24","36","48","60","72","84","96")
 len<-length(x)
 
 for (j in 1:len) {
