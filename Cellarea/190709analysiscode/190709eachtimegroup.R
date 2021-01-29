@@ -1,4 +1,4 @@
-inf<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/"
+inf<-"input-dir"
 x<-c("6","12","24","48","60","72","84","96")
 len<-length(x)
 
