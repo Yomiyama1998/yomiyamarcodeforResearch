@@ -1,4 +1,4 @@
-inf<-"保存しているdir"
+inf<-"inputdir"
 x<-c("0")
 len<-length(x)
 
