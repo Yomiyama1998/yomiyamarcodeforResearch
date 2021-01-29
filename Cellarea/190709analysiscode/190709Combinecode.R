@@ -1,5 +1,5 @@
-inf<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/"
-out_f1<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/170709cellarea.csv"
+inf<-"input dir"
+out_f1<-"output/csv"
 minimum<-100
 
 library(readxl)
