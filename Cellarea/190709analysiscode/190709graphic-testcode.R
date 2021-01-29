@@ -1,5 +1,5 @@
-inf_1<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/170709cellarea.csv"
-out_f1<-"/Users/yomiyama/Desktop/190709analysis/190529cellarea/170709cellarea.png"
+inf_1<-"input.csv"
+out_f1<-"outputpng"
 
 library(readxl)
 library(tidyverse)
