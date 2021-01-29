@@ -1,7 +1,7 @@
-inf1="/Users/yomiyama/Desktop/190709analysis/190529cellarea/pathfile/"
-inf2='96hDelta.csv'
-out1="/Users/yomiyama/Desktop/190709analysis/190529cellarea/96h/"
-out2="Delta"
+inf1="input-pathfile/"
+inf2='inputcsv'
+out1="outputdir"
+out2="AnalysisGroup"
 
 
 
